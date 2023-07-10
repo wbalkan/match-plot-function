@@ -14,3 +14,7 @@ segment_size - number of intervals observed
 matches - number of matching plots returned
 future_depth - how far to project into future
 ex: mpf.plot_matches('TSM', '7d', '1', 'm', 21, 10, 10)
+
+
+## example output:
+![image](https://github.com/wbalkan/match-plot-function/assets/96204851/7247cf30-c475-4d39-b630-87d14a2ea327)
